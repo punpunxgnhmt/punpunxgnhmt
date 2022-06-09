@@ -1,5 +1,15 @@
-##  Hé lu...Hé luu 🙋‍♀️ Tui là Trang 🦄🍑
+<h1 align="center" dir="auto">Hi..hii...hiii🙋‍♀️ , Tui là Trang 🦄🍑</h1>
+<h3 align="center" dir="auto">🌸🌸🌸</h3>
 
+[![](https://visitcount.itsvg.in/api?id=punpundepgaivl&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<ul dir="auto">
+
+<li>
+<p dir="auto">📧 Mail tui nè: <strong><a href="mailto:ngthchant@gmail.com">ngthchant@gmail.com</a></strong></p>
+</li>
+
+</ul>
 
 ### 🌐Connect with tuiii: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/punpunxdnhmt) [
@@ -24,7 +34,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=punpundepgaivl&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=punpundepgaivl&theme=radical&hide_border=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=punpundepgaivl&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
