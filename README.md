@@ -1,4 +1,4 @@
-## 🙋‍ Hé lu...Hé luu 🙋‍♀️ </br> Tui là Trang, hay còn được gọi là Pun 🦄🦄🦄 Cảm ơn mn đã ghé💕
+##  Hé lu...Hé luu 🙋‍♀️ Tui là Trang 🦄🍑
 
 
 ### 🌐Connect with tuiii: 
