@@ -6,7 +6,10 @@
 <ul dir="auto">
 
 <li>
-<p dir="auto">📧 Mail tui nè: <strong><a href="mailto:ngthchant@gmail.com">ngthchant@gmail.com</a></strong></p>
+<p dir="auto">📧 Email: <strong><a href="mailto:ngthchant@gmail.com">ngthchant@gmail.com</a></strong></p>
+</li>
+  <li>
+<p dir="auto">📞 SĐT: <strong> 0961176755 </strong></p>
 </li>
 
 </ul>
