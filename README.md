@@ -1,4 +1,4 @@
-<h1 align="center" dir="auto">Hi..hii...hiii🙋‍♀️ , Tui là Trang 🦄🍑</h1>
+<h1 align="center" dir="auto">Hi, I'm Nguyen Thi Trang, a UX/UI Designer🦄🍑</h1>
 <h3 align="center" dir="auto">🌸🌸🌸</h3>
 
 [![](https://visitcount.itsvg.in/api?id=punpundepgaivl&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -14,7 +14,7 @@
 
 </ul>
 
-### 🌐Connect with tuiii: 
+### 🌐Follow me: 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/punpunxdnhmt) [
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/Pun_xgnhmt/) [
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@pun_xgnhmt) 
